@@ -1,4 +1,6 @@
-# Olá! Eu sou o João Paulo 🖐️
+# João Paulo 💻
+
+👋 Sou o João Paulo, apaixonado por análise de dados e desenvolvimento back-end. Adoro explorar dados, criar soluções robustas e transformar ideias em projetos.
 
 [![Blog](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jpsc17/jpsc17/)
 [![Likedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-paulo-gomes-03036a308/)
