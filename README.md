@@ -9,6 +9,9 @@
 
 ![Jpsc17 GitHub stats](https://github-readme-stats.vercel.app/api?username=jpsc17&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpsc17&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## Tecnologias que trabalho
 <div style="display: inline_block"><br/>
 <img
